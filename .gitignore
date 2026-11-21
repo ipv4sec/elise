@@ -1,0 +1,5 @@
+/dist/
+/cmd/cmd
+
+.DS_Store
+/.idea/
